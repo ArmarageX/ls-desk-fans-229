@@ -1,0 +1,30 @@
+{
+  "row": 229,
+  "provider": "Vercel",
+  "target": "https://lestallion.com/blogs/product-reviews/best-desk-fans-for-quiet-cooling",
+  "prev": "https://ls-laptop-backpacks-228.netlify.app/index.html",
+  "base": "https://ls-desk-fans-229.vercel.app/",
+  "t1_url": "https://ls-desk-fans-229.vercel.app/index.html",
+  "pages": [
+    "usb-power.html",
+    "cleaning-safety.html",
+    "quiet-performance.html",
+    "about.html",
+    "privacy.html",
+    "value.html",
+    "size-tilt.html",
+    "airflow-placement.html",
+    "contact.html",
+    "index.html"
+  ],
+  "images": [
+    "image-8.webp",
+    "image-3.webp",
+    "image-2.webp",
+    "image-4.webp",
+    "image-5.webp",
+    "image-1.webp",
+    "image-6.webp",
+    "image-7.webp"
+  ]
+}
